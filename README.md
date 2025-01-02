@@ -1,2 +1,2 @@
-# 463_hw2
-CENG463-HW2
+# 463 HW2
+I seperated my codes into 4 parts, 2 per each task.
